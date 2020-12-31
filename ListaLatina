@@ -1,0 +1,263 @@
+
+#EXTM3U
+#EXTINF:-1,A&E
+http://megatv.live:80/live/MegaTest/MegaTV/315.ts
+#EXTINF:-1,A&E HD
+http://megatv.live:80/live/MegaTest/MegaTV/1.ts
+#EXTINF:-1,A24
+http://megatv.live:80/live/MegaTest/MegaTV/36.ts
+#EXTINF:-1,AMC
+http://megatv.live:80/live/MegaTest/MegaTV/323.ts
+#EXTINF:-1,AMC HD
+http://megatv.live:80/live/MegaTest/MegaTV/2.ts
+#EXTINF:-1,America est/MegaTV/47.ts
+#EXTINF:-1,America Sports
+http://megatv.live:80/live/MegaTest/MegaTV/411.ts
+#EXTINF:-1,America Tv
+http://megatv.live:80/live/MegaTest/MegaTV/6.ts
+#EXTINF:-1,America Tv HD
+http://megatv.live:80/live/MegaTest/MegaTV/9.ts
+#EXTINF:-1,Animal Planet
+http://megatv.live:80/live/MegaTest/MegaTV/327.ts
+#EXTINF:-1,Antena 3
+http://megatv.live:80/live/MegaTest/MegaTV/203.ts
+#EXTINF:-1,ATB
+http://megatv.live:80/live/MegaTest/MegaTV/206.ts
+#EXTINF:-1,ATV
+http://megatv.live:80/live/MegaTest/MegaTV/7.ts
+#EXTINF:-1,AXN
+http://megatv.live:80/live/MegaTest/MegaTV/317.ts
+#EXTINF:-1,AXN HD
+http://megatv.live:80/live/MegaTest/MegaTV/318.ts
+#EXTINF:-1,AzCorazon
+http://megatv.live:80/live/MegaTest/MegaTV/299.ts
+#EXTINF:-1,Baby TV
+http://megatv.live:80/live/MegaTest/MegaTV/294.ts
+#EXTINF:-1,Bang TV
+http://megatv.live:80/live/MegaTest/MegaTV/371.ts
+#EXTINF:-1,BBC World
+http://megatv.live:80/live/MegaTest/MegaTV/360.ts
+#EXTINF:-1,Bein Sports Ñ HD
+http://megatv.live:80/live/MegaTest/MegaTV/380.ts
+#EXTINF:-1,Bein Sports USA HD
+http://megatv.live:80/live/MegaTest/MegaTV/381.ts
+#EXTINF:-1,Bolivia TV
+http://megatv.live:80/live/MegaTest/MegaTV/77.ts
+#EXTINF:-1,Bolivision
+http://megatv.live:80/live/MegaTest/MegaTV/293.ts
+#EXTINF:-1,Boomerang
+http://megatv.live:80/live/MegaTest/MegaTV/290.ts
+#EXTINF:-1,Boomerang HD
+http://megatv.live:80/live/MegaTest/MegaTV/404.ts
+#EXTINF:-1,C5N
+http://megatv.live:80/live/MegaTest/MegaTV/45.ts
+#EXTINF:-1,Cable Onda Sports FC HD
+http://megatv.live:80/live/MegaTest/MegaTV/97.ts
+#EXTINF:-1,Cable Onda Sports HD
+http://megatv.live:80/live/MegaTest/MegaTV/98.ts
+#EXTINF:-1,CableNoticias
+http://megatv.live:80/live/MegaTest/MegaTV/362.ts
+#EXTINF:-1,Cadena A
+http://megatv.live:80/live/MegaTest/MegaTV/78.ts
+#EXTINF:-1,Canal 13
+http://megatv.live:80/live/MegaTest/MegaTV/30.ts
+#EXTINF:-1,Canal 13 HD
+http://megatv.live:80/live/MegaTest/MegaTV/14.ts
+#EXTINF:-1,Canal de La Musica (Argentina)
+http://megatv.live:80/live/MegaTest/MegaTV/83.ts
+#EXTINF:-1,Canal N
+http://megatv.live:80/live/MegaTest/MegaTV/19.ts
+#EXTINF:-1,Canal Nueve HD
+http://megatv.live:80/live/MegaTest/MegaTV/38.ts
+#EXTINF:-1,Canal Rural
+http://megatv.live:80/live/MegaTest/MegaTV/34.ts
+#EXTINF:-1,Canal Tro
+http://megatv.live:80/live/MegaTest/MegaTV/205.ts
+#EXTINF:-1,Canal Uno
+http://megatv.live:80/live/MegaTest/MegaTV/221.ts
+#EXTINF:-1,Capital TV
+http://megatv.live:80/live/MegaTest/MegaTV/4.ts
+#EXTINF:-1,Caracol
+http://megatv.live:80/live/MegaTest/MegaTV/222.ts
+#EXTINF:-1,Caracol HD
+http://megatv.live:80/live/MegaTest/MegaTV/223.ts
+#EXTINF:-1,Cartoon Network (Panregional)
+http://megatv.live:80/live/MegaTest/MegaTV/286.ts
+#EXTINF:-1,Cartoon Network HD
+http://megatv.live:80/live/MegaTest/MegaTV/393.ts
+#EXTINF:-1,Cartoon Network Oeste
+http://megatv.live:80/live/MegaTest/MegaTV/287.ts
+#EXTINF:-1,CBS Sports Network
+http://megatv.live:80/live/MegaTest/MegaTV/389.ts
+#EXTINF:-1,CDF Basico
+http://megatv.live:80/live/MegaTest/MegaTV/185.ts
+#EXTINF:-1,CDF HD
+http://megatv.live:80/live/MegaTest/MegaTV/186.ts
+#EXTINF:-1,CDF Premium
+http://megatv.live:80/live/MegaTest/MegaTV/187.ts
+#EXTINF:-1,CDO Basico
+http://megatv.live:80/live/MegaTest/MegaTV/189.ts
+#EXTINF:-1,CDO Premium
+http://megatv.live:80/live/MegaTest/MegaTV/188.ts
+#EXTINF:-1,CGTN en Español
+http://megatv.live:80/live/MegaTest/MegaTV/99.ts
+#EXTINF:-1,Chacra TV
+http://megatv.live:80/live/MegaTest/MegaTV/33.ts
+#EXTINF:-1,ChoCho HD
+http://megatv.live:80/live/MegaTest/MegaTV/406.ts
+#EXTINF:-1,CHV
+http://megatv.live:80/live/MegaTest/MegaTV/27.ts
+#EXTINF:-1,CHV HD
+http://megatv.live:80/live/MegaTest/MegaTV/12.ts
+#EXTINF:-1,Cine Latino
+http://megatv.live:80/live/MegaTest/MegaTV/246.ts
+#EXTINF:-1,Cine.ar
+http://megatv.live:80/live/MegaTest/MegaTV/63.ts
+#EXTINF:-1,Cinecanal
+http://megatv.live:80/live/MegaTest/MegaTV/243.ts
+#EXTINF:-1,Cinecanal (Panregional)
+http://megatv.live:80/live/MegaTest/MegaTV/242.ts
+#EXTINF:-1,Cinecanal HD
+http://megatv.live:80/live/MegaTest/MegaTV/244.ts
+#EXTINF:-1,Cinema Dinamita
+http://megatv.live:80/live/MegaTest/MegaTV/245.ts
+#EXTINF:-1,Cinemax
+http://megatv.live:80/live/MegaTest/MegaTV/255.ts
+#EXTINF:-1,Cinemax Oeste
+http://megatv.live:80/live/MegaTest/MegaTV/254.ts
+#EXTINF:-1,CityTV
+http://megatv.live:80/live/MegaTest/MegaTV/219.ts
+#EXTINF:-1,Ciudad Magazine TV
+http://megatv.live:80/live/MegaTest/MegaTV/62.ts
+#EXTINF:-1,Ciudadano TV
+http://megatv.live:80/live/MegaTest/MegaTV/208.ts
+#EXTINF:-1,Clan TV
+http://megatv.live:80/live/MegaTest/MegaTV/61.ts
+#EXTINF:-1,Claro Sport
+http://megatv.live:80/live/MegaTest/MegaTV/190.ts
+#EXTINF:-1,CN23
+http://megatv.live:80/live/MegaTest/MegaTV/40.ts
+#EXTINF:-1,CNN Chile
+http://megatv.live:80/live/MegaTest/MegaTV/363.ts
+#EXTINF:-1,CNN Español
+http://megatv.live:80/live/MegaTest/MegaTV/365.ts
+#EXTINF:-1,CNN Internacional
+http://megatv.live:80/live/MegaTest/MegaTV/364.ts
+#EXTINF:-1,CNT Sports
+http://megatv.live:80/live/MegaTest/MegaTV/195.ts
+#EXTINF:-1,CNT Sports HD
+http://megatv.live:80/live/MegaTest/MegaTV/196.ts
+#EXTINF:-1,CNT Sports PPV1 HD
+http://megatv.live:80/live/MegaTest/MegaTV/194.ts
+#EXTINF:-1,CNT Sports PPV2 HD
+http://megatv.live:80/live/MegaTest/MegaTV/193.ts
+#EXTINF:-1,COCO HD
+http://megatv.live:80/live/MegaTest/MegaTV/276.ts
+#EXTINF:-1,Combate
+http://megatv.live:80/live/MegaTest/MegaTV/60.ts
+#EXTINF:-1,Combate HD
+http://megatv.live:80/live/MegaTest/MegaTV/59.ts
+#EXTINF:-1,Comedy Central
+http://megatv.live:80/live/MegaTest/MegaTV/355.ts
+#EXTINF:-1,Comedy Central HD
+http://megatv.live:80/live/MegaTest/MegaTV/356.ts
+#EXTINF:-1,Concert Channel
+http://megatv.live:80/live/MegaTest/MegaTV/384.ts
+#EXTINF:-1,Conexion Educativa Argentina
+http://megatv.live:80/live/MegaTest/MegaTV/35.ts
+#EXTINF:-1,CronicaTV
+http://megatv.live:80/live/MegaTest/MegaTV/42.ts
+#EXTINF:-1,De Pelicula
+http://megatv.live:80/live/MegaTest/MegaTV/305.ts
+#EXTINF:-1,DeportTV
+http://megatv.live:80/live/MegaTest/MegaTV/410.ts
+#EXTINF:-1,DHE HD
+http://megatv.live:80/live/MegaTest/MegaTV/402.ts
+#EXTINF:-1,Discovery Channel (Andino)
+http://megatv.live:80/live/MegaTest/MegaTV/341.ts
+#EXTINF:-1,Discovery Channel HD
+http://megatv.live:80/live/MegaTest/MegaTV/342.ts
+#EXTINF:-1,Discovery Civilization
+http://megatv.live:80/live/MegaTest/MegaTV/335.ts
+#EXTINF:-1,Discovery Civilization HD
+http://megatv.live:80/live/MegaTest/MegaTV/340.ts
+#EXTINF:-1,Discovery en Español
+http://megatv.live:80/live/MegaTest/MegaTV/338.ts
+#EXTINF:-1,Discovery Familia
+http://megatv.live:80/live/MegaTest/MegaTV/337.ts
+#EXTINF:-1,Discovery H&H
+http://megatv.live:80/live/MegaTest/MegaTV/297.ts
+#EXTINF:-1,Discovery Home & Health HD
+http://megatv.live:80/live/MegaTest/MegaTV/298.ts
+#EXTINF:-1,Discovery Kids
+http://megatv.live:80/live/MegaTest/MegaTV/288.ts
+#EXTINF:-1,Discovery Kids HD
+http://megatv.live:80/live/MegaTest/MegaTV/289.ts
+#EXTINF:-1,Discovery Science HD
+http://megatv.live:80/live/MegaTest/MegaTV/339.ts
+#EXTINF:-1,Discovery Theater HD
+http://megatv.live:80/live/MegaTest/MegaTV/343.ts
+#EXTINF:-1,Discovery Turbo
+http://megatv.live:80/live/MegaTest/MegaTV/336.ts
+#EXTINF:-1,Discovery Turbo HD
+http://megatv.live:80/live/MegaTest/MegaTV/396.ts
+#EXTINF:-1,Discovery World HD
+http://megatv.live:80/live/MegaTest/MegaTV/344.ts
+#EXTINF:-1,Disney Channel
+http://megatv.live:80/live/MegaTest/MegaTV/284.ts
+#EXTINF:-1,Disney Channel HD
+http://megatv.live:80/live/MegaTest/MegaTV/285.ts
+#EXTINF:-1,Disney Junior
+http://megatv.live:80/live/MegaTest/MegaTV/282.ts
+#EXTINF:-1,Disney XD
+http://megatv.live:80/live/MegaTest/MegaTV/283.ts
+#EXTINF:-1,Distrito Comedia
+http://megatv.live:80/live/MegaTest/MegaTV/357.ts
+#EXTINF:-1,DW Español
+http://megatv.live:80/live/MegaTest/MegaTV/359.ts
+#EXTINF:-1,EcuadorTV
+http://megatv.live:80/live/MegaTest/MegaTV/218.ts
+#EXTINF:-1,Ecuavisa
+http://megatv.live:80/live/MegaTest/MegaTV/215.ts
+#EXTINF:-1,Ecuavisa Internacional
+http://megatv.live:80/live/MegaTest/MegaTV/385.ts
+#EXTINF:-1,El Canal de 31 Minutos
+http://megatv.live:80/live/MegaTest/MegaTV/68.ts
+#EXTINF:-1,El Gourmet
+http://megatv.live:80/live/MegaTest/MegaTV/308.ts
+#EXTINF:-1,El Trece HD
+http://megatv.live:80/live/MegaTest/MegaTV/48.ts
+#EXTINF:-1,El Trece Internacional
+http://megatv.live:80/live/MegaTest/MegaTV/31.ts
+#EXTINF:-1,Encuentro
+http://megatv.live:80/live/MegaTest/MegaTV/44.ts
+#EXTINF:-1,Epoca
+http://megatv.live:80/live/MegaTest/MegaTV/207.ts
+#EXTINF:-1,ESPN+ BR
+http://megatv.live:80/live/MegaTest/MegaTV/159.ts
+#EXTINF:-1,ESPN+ HD BR
+http://megatv.live:80/live/MegaTest/MegaTV/160.ts
+#EXTINF:-1,ESPN+ HD
+http://megatv.live:80/live/MegaTest/MegaTV/157.ts
+#EXTINF:-1,ESPN (Norte)
+http://megatv.live:80/live/MegaTest/MegaTV/155.ts
+#EXTINF:-1,ESPN (Sur)
+http://megatv.live:80/live/MegaTest/MegaTV/153.ts
+#EXTINF:-1,ESPN 2 (Norte)
+http://megatv.live:80/live/MegaTest/MegaTV/151.ts
+#EXTINF:-1,ESPN 2 (Sur)
+http://megatv.live:80/live/MegaTest/MegaTV/149.ts
+#EXTINF:-1,ESPN 2 HD (Norte)
+http://megatv.live:80/live/MegaTest/MegaTV/152.ts
+#EXTINF:-1,ESPN 2 HD (Sur)
+http://megatv.live:80/live/MegaTest/MegaTV/150.ts
+#EXTINF:-1,ESPN 3 (Sur)
+http://megatv.live:80/live/MegaTest/MegaTV/146.ts
+#EXTINF:-1,ESPN 3 HD (Norte)
+http://megatv.live:80/live/MegaTest/MegaTV/148.ts
+#EXTINF:-1,ESPN 3 HD (Sur)
+http://megatv.live:80/live/MegaTest/MegaTV/147.ts
+#EXTINF:-1,ESPN BR
+http://megatv.live:80/live/MegaTest/MegaTV/161.ts
+#EXTINF:-1,ESPN BR HD
+http://megatv.live:80/live/Mega
